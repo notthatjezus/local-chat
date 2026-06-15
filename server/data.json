@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1770370417269",
+      "email": "west-side@bk.ru",
+      "password": "$2b$12$nxWK5er0ghTaB3v22o2cd.fdbFw5Viv8QNi91ZnsdIo//R6HYO/KW",
+      "name": "Али",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Али",
+      "bio": "",
+      "createdAt": "2026-02-06T12:33:37.269596",
+      "status": "online"
+    },
+    {
+      "id": "1770370508817",
+      "email": "95.suleimanovii@rosstat.gov.ru",
+      "password": "$2b$12$iYuG/ab7rd.VQ/A1/wkLruo.0.EvuphGb64UqDjI1X3MQy.RvNTqm",
+      "name": "Иса Сулейманов",
+      "avatar": "http://10.120.20.111:5000/api/uploads/avatar_1770370508817_e03420bf6e8e45ed9e39e1dc81cb7ff8.jpg",
+      "bio": "",
+      "createdAt": "2026-02-06T12:35:08.817409",
+      "status": "online"
+    }
+  ],
+  "messages": [
+    {
+      "id": "17703705430100",
+      "senderId": "1770370417269",
+      "receiverId": "1770370508817",
+      "text": "yo",
+      "timestamp": "2026-02-06T12:35:43.010707",
+      "status": "read"
+    },
+    {
+      "id": "17703711353001",
+      "senderId": "1770370508817",
+      "receiverId": "1770370417269",
+      "text": "wazzap man?",
+      "timestamp": "2026-02-06T12:45:35.300761",
+      "status": "read"
+    },
+    {
+      "id": "17713290397112",
+      "senderId": "1770370508817",
+      "text": "",
+      "receiverId": "1770370417269",
+      "fileUrl": "/uploads/2485333914e94b3bba35757480b5235e_i.jpeg",
+      "fileName": "i.jpeg",
+      "fileType": "image/jpeg",
+      "timestamp": "2026-02-17T14:50:39.711217",
+      "status": "read",
+      "edited": false,
+      "editedAt": null
+    },
+    {
+      "id": "17713294717793",
+      "senderId": "1770370417269",
+      "text": "Давай общаться)))",
+      "receiverId": "1770370508817",
+      "timestamp": "2026-02-17T14:57:51.779907",
+      "status": "read",
+      "edited": false,
+      "editedAt": null
+    }
+  ],
+  "groups": []
+}
